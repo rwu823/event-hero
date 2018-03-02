@@ -1,0 +1,12 @@
+{
+  "name": "event-hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rocky Wu <rocky@17.media>",
+  "license": "MIT"
+}
